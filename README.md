@@ -1,5 +1,8 @@
 # IC LAB 2025 FALL
 
+學期初修課人數: 214
+退選人數: 92(43.0%)
+不算退選班平均: 83.50
 ## Lab Contents
 
 - *Lab01 – Combinational Circuit*  
@@ -56,6 +59,7 @@
 |OT| |NA|100|7.8%|92.13%|
 
 ## Final Score
-92.595
+Score: 92.595
+Rank: 15/214(7%)
 
 
