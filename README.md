@@ -30,20 +30,10 @@
 
 ---
 
-## Tools & Environment
-
 ### Languages
 - Verilog / SystemVerilog  
 - TCL  
 - Bash / Python
-
-### EDA Tools
-- Synopsys VCS / Verdi  
-- Synopsys Design Compiler  
-- Cadence Innovus  
-- PrimeTime 
-- JasperGold
-
 
 ---
 ## OVERVIEW
