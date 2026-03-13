@@ -1,5 +1,5 @@
 # IC LAB 2025 FALL
-修課人數: 122/214 (退選92人)。
+
 ## Lab Contents
 
 - *Lab01 – Combinational Circuit*  
@@ -42,6 +42,7 @@
 - Synopsys Design Compiler  
 - Cadence Innovus  
 - PrimeTime 
+- JasperGold
 
 
 ---
@@ -64,7 +65,7 @@
 |Final Project|Motion Vector Difference Matching|45|99.09|81.81%|84.61%|
 |OT| |NA|100|7.8%|92.13%|
 
-## 最終成績
-調分前: 92.595
+## Final Score
+92.595
 
 
